@@ -1,4 +1,3 @@
-# image_detection
 # Blur and Bright Detection
 
 
